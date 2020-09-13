@@ -11,7 +11,7 @@ Currently looking for a job - I would love to receive your offers!
 
 ### Work
 **Currently, I work on:**  
-* Ethical Hacking Thesis (penetration testing application)
+* Ethical Hacking thesis (penetration testing application)
 * Automating The Boring Stuff with Python book
 * Django Course on Real Python
 
