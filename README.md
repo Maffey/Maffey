@@ -5,8 +5,8 @@ Currently looking for a job - I would love to receive your offers!
 
 ### Information
 **Mateusz Kuniczuk**  
-**Student at:** WWSIS Horyzont, IT degree(_Security and optimalization of computer networks_).  
-**Languages:** Python (main), Kotlin, Java, C++  
+**Student at:** WWSIS Horyzont, IT degree (_Security and optimalization of computer networks_).  
+**Languages:** <ins>Python</ins>, Kotlin, Java, C++  
 **Technologies:** Android, XML, SQL, API  
 
 ### Work
