@@ -4,7 +4,7 @@ I’m  looking  for  an  opportunity  to  polish  my skills and gain experience 
 Currently looking for a job - I would love to receive your offers!
 
 ### Information
-**Mateusz Kuniczuk**
+**Mateusz Kuniczuk**  
 **Student at:** WWSIS Horyzont, IT degree(_Security and optimalization of computer networks_).  
 **Languages:** Python (main), Kotlin, Java, C++  
 **Technologies:** Android, XML, SQL, API  
