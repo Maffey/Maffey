@@ -1,7 +1,6 @@
 ### Introduction
 I’m  an  engineering  student  majoring  in  cybersecurity  and programming.
 I’m  looking  for  an  opportunity  to  polish  my skills and gain experience in the field. I love learning and expanding my knowledge. I am great when it comes to analytical thinking and I am very self-disciplined when it comes to managing time or organizing projects.  
-Currently looking for a job - I would love to receive your offers!
 
 ### Information
 **Mateusz Kuniczuk**  
@@ -13,7 +12,6 @@ Currently looking for a job - I would love to receive your offers!
 **Currently, I work on:**  
 * Ethical Hacking thesis (penetration testing application)
 * Automating The Boring Stuff with Python book
-* Django Course on Real Python
 
 <!--
 **Maffey/Maffey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
