@@ -7,12 +7,6 @@ I’m  looking  for  an  opportunity  to  polish  my skills and gain experience 
 **Student at:** WWSIS Horyzont, IT degree (_Security and optimalization of computer networks_).  
 **Languages:** <ins>Python</ins>, Kotlin, Java, C++  
 **Technologies:** Android, XML, SQL, API  
-
-### Work
-**Currently, I work on:**  
-* Ethical Hacking thesis (penetration testing application)
-* Automating The Boring Stuff with Python book
-
 <!--
 **Maffey/Maffey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
