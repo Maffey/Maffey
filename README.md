@@ -2,7 +2,7 @@
 I’m  an  Quality Engineering Developer who finished college in 2021 (IT - Cybersecurity).
 I’m  looking  for  an  opportunity  to  polish  my skills and gain experience in the field. I love learning and expanding my knowledge. I am great when it comes to analytical thinking and I am very self-disciplined when it comes to managing time or organizing projects.  
 
-Currently I'm working mainly as a Performance Tester.
+Currently I'm working as a Performance Test Engineer.
 
 ### Information
 **Studied at:** WWSIS Horyzont, IT degree (_Security and optimalization of computer networks_).  
