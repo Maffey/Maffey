@@ -1,21 +1,27 @@
-### Introduction
-I’m  a Developer who finished college in 2021 (IT - Cybersecurity).
-I’m  looking  for  an  opportunity  to  polish  my skills and gain experience in the field. I love learning and expanding my knowledge. I am great when it comes to analytical thinking and I am very self-disciplined when it comes to managing time or organizing projects.  
+# Hi there! 👋 I'm Mateusz
 
-Currently I'm working as a Python Developer.
+As a passionate developer, I thrive on solving complex problems and creating elegant solutions.
 
-### Information
-**Studied at:** WWSIS Horyzont, IT degree (_Security and optimalization of computer networks_).  
-**Languages:** <ins>Python</ins>, Kotlin, Java, C++  
-<!--
-**Maffey/Maffey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I graduated with a degree in IT, specializing in Cybersecurity in 2021. Since then I worked in a consulting company as a Performance Tester for 1.5 years and now I'm full-time Python Developer in Telco.
+
+Here's a bit more about me:
+
+## 🌐 Background
+- **Experience**: 1.5 years as a Performance Tester, 1.5 years (and counting) as a Python Developer.
+- **Education:** I completed my studies at WWSIS Horyzont, where I focused on **Security and Optimization of Computer Networks**.
+- **Skills:** I'm proficient in several programming languages, including:
+  - **Python**: My main go-to language for building robust applications. I'm most proficient here.
+  - **Java**: I've used it for various Android projects, mostly as a part of Android Beginners Nanodegree Course by Google.
+  - **Kotlin**: Did a few small simple apps for a contract with a TV show company.
+  - **Rust**: Mostly learning it in spare time and creating small scripts with it, just to have fun.
+
+## 💡 What Drives Me
+- **Curiosity**: I'm always eager to learn and explore new technologies.
+- **Analytical Thinking**: I approach problems methodically, breaking them down into manageable steps.
+- **Self-Discipline**: Time management and project organization are second nature to me.
+
+## 🚀 Current Role
+I'm currently working as a **Python Developer**.
+
+## 📫 Let's Connect
+Feel free to reach out! Connect with me on [LinkedIn](https://www.linkedin.com/in/mkuniczuk/) or check out my GitHub repositories.
