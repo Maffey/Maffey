@@ -7,7 +7,7 @@ I graduated with a degree in IT, specializing in Cybersecurity in 2021. Since th
 Here's a bit more about me:
 
 ## 🌐 Background
-- **Experience**: 1.5 years as a Performance Tester, 1.5 years (and counting) as a Python Developer.
+- **Experience**: 1.5 years as a Performance Tester, 2 years (and counting) as a Python Developer.
 - **Education:** I completed my studies at WWSIS Horyzont, where I focused on **Security and Optimization of Computer Networks**.
 - **Skills:** I'm proficient in several programming languages, including:
   - **Python**: My main go-to language for building robust applications. I'm most proficient here.
