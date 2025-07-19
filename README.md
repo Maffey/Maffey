@@ -1,4 +1,4 @@
-# README
+# Maffey
 I graduated with a degree in IT, specializing in Cybersecurity in 2021. Since then I worked in a consulting company as a Performance Tester for 1.5 years and now I'm full-time Python Developer in Telco.
 
 Here's a bit more about me:
