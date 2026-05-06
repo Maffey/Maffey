@@ -4,7 +4,7 @@ I graduated with a degree in IT, specializing in Cybersecurity in 2021. Since th
 Here's a bit more about me:
 
 ## Background
-- **Experience**: 1.5 years as a Performance Tester, 2 years (and counting) as a Python Developer.
+- **Experience**: 1.5 years as a Performance Tester, 3 years (and counting) as a Python Developer.
 - **Education:** I completed my studies at WWSIS Horyzont, where I focused on **Security and Optimization of Computer Networks**.
 - **Programming languages:** I'm proficient in several programming languages, including:
   - **Python**: My main go-to language for building robust applications. I'm most proficient here. Notable libraries I know: pydantic, pandas, numpy, FastAPI, Django
@@ -13,7 +13,7 @@ Here's a bit more about me:
   - **Kotlin**: Did a few small simple apps for a contract with a TV show company.
 
 ## Current Role
-I'm currently working as a **Senior Python Developer**.
+I'm currently working as a **Senior Python Developer with Cloud**.
 
 ## Let's Connect
 Feel free to reach out! Connect with me on [LinkedIn](https://www.linkedin.com/in/mkuniczuk/) or check out my GitHub repositories.
